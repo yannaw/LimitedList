@@ -23,7 +23,7 @@ namespace LimitedList {
 
             //           Console.WriteLine(list[1]);
 
-            Inventory(list); //Ctr+R Ctr+M
+            Inventory(list); // Ctr+R Ctr+M
 
             Console.WriteLine(list.Add("444"));
             Inventory(list);
